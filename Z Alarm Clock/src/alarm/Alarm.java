@@ -1,7 +1,10 @@
 package src.alarm;
 
 /**
- * 
+ * Name: Alarm Clock
+ * Coders: dwatch and jellyschmoop (David and Emily)
+ * Function: You can set a single event and its due date in the future. On the minute it is due, the program will print out a notification and it will
+ * 			 begin to ring.
  */
 
 import java.util.*;
